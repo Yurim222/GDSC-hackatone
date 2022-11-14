@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=135&section=header&text=&fontSize=90&fontAlignY=30&)
 
 <h1> 기사님 어디가세요? </h1>
+<h2>기획 동기 해커톤의 주제는 어이없는 어플 만들기였습니다. 
+>그래서 저희는 최단경로가 아닌, 최장경로를 보여주는 웹 서비스를 기획하게 되었습니다. </h2>
+
+<hr/>
+Tmap의 경유지 검색 api를 사용하였습니다.
 
  <table>
 <thead>
